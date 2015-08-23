@@ -125,7 +125,7 @@ Example::
 
    .. method:: begin()
 
-        A :ref:`coroutine <coroutine>` to egin transaction.
+        A :ref:`coroutine <coroutine>` to begin transaction.
 
    .. method:: commit()
 
